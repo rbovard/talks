@@ -1,5 +1,6 @@
 # Talks
 
+- [Vevey cemetery management with QGIS](2023-06-07%20Vevey%20cemetery%20management.pdf) *(Swiss QGIS Users Meeting 2023, Olten)*
 - [Automatiser la diffusion des géodonnées](2019-05-10%20Automatiser%20la%20diffusion%20des%20g%C3%A9odonn%C3%A9es.pdf) *(FME World Tour 2019, Fribourg)*
 - [EXTRACT à la Ville de Nyon](2018-06-14%20EXTRACT%20%C3%A0%20la%20Ville%20de%20Nyon.pdf) *(Rencontre ASIT VD 2018, Lausanne)*
 - [QGIS à la Ville de Nyon](2016-06-15%20QGIS%20%C3%A0%20la%20Ville%20de%20Nyon.pdf) *(Swiss QGIS Users Meeting 2016, Bern)*
